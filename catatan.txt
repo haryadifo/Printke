@@ -1,0 +1,17 @@
+cara akses web prinke :
+http://localhost/tugas/auth/login
+
+super admin :
+rehan@gmail.com
+rehan123
+
+admin :
+wahnu@gmail.com
+wahnu123
+
+user :
+agil@gmail.com
+qwerty
+
+ridho@gmail.com
+qwerty

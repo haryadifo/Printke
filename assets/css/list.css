@@ -1,0 +1,29 @@
+h1 {
+    margin-left: 750px;
+    margin-top: 90px;
+}
+
+.hitam {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 530px;
+}
+
+.jilid {
+    position: relative;
+    top: -20%;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 1000px;
+}
+
+.warna {
+    margin-left: 530px;
+    margin-bottom: 20px;
+}
+
+.scan {
+    position: relative;
+    top: -22%;
+    margin-left: 1000px;
+}
